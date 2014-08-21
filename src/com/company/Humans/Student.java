@@ -9,7 +9,7 @@ public class Student {
     public Course course = new Course();
     //metod deistvie
     public void sayHello() {
-        System.out.println("Hello1111");
+        System.out.println("Hello1113241");
         System.out.println("My name is "+ name);
         System.out.println("My age is "+ age);
         course.aboutCourse();
