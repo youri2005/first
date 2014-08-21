@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         Student studentNew= new Student();
         Course Wow= new Course();
-        studentNew.name = "Vasia";
+        studentNew.name = "Vasirrrra";
         studentNew.course.name ="Trud";
 
         studentNew.sayHello();
