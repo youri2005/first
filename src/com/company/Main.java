@@ -8,8 +8,13 @@ public class Main {
     public static void main(String[] args) {
         Student studentNew= new Student();
         Course Wow= new Course();
+<<<<<<< HEAD
         studentNew.name = "Vasia";
         studentNew.course.name ="Trud11";
+=======
+        studentNew.name = "Vasirrrra";
+        studentNew.course.name ="Trud";
+>>>>>>> d902c7f976069ed4e84bedfe6c9586b9a04beea6
 
         studentNew.sayHello();
         studentNew.course.aboutCourse();
@@ -19,3 +24,4 @@ public class Main {
 
     }
 }
+//111111111
