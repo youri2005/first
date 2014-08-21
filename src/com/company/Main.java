@@ -9,7 +9,7 @@ public class Main {
         Student studentNew= new Student();
         Course Wow= new Course();
         studentNew.name = "Vasia";
-        studentNew.course.name ="Trud";
+        studentNew.course.name ="Trud11";
 
         studentNew.sayHello();
         studentNew.course.aboutCourse();
